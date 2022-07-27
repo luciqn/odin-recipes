@@ -1,1 +1,2 @@
 # odin-recipes
+Made a basic HTML website to showcase three different recipes. I applied the basics of HTML that I learned through the odin project such as paragraphs, headings, links, images, ordered list and unordered list.
